@@ -12,7 +12,7 @@
 		);
 		$response = json_encode($data, JSON_PRETTY_PRINT);
 		print_r($response);
-		//die();
+		die();
 	}
 ?>
 
